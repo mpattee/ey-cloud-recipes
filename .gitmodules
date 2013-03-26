@@ -1,0 +1,3 @@
+[submodule "cookbooks/sidekiq"]
+	path = cookbooks/sidekiq
+	url = git@github.com:mpattee/eycloud-recipe-sidekiq.git
